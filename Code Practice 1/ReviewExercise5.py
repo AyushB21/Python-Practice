@@ -1,0 +1,6 @@
+n1=int(input("Enter number: "))
+n2=int(input("Enter number: "))
+n3=int(input("Enter number: "))
+n4=int(input("Enter number: "))
+tup=(n1,n2,n3,n4)
+print(max(tup))
